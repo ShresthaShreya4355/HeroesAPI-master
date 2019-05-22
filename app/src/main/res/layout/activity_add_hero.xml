@@ -9,8 +9,8 @@
     tools:context=".AddHeroActivity">
 
     <ImageView
-        android:layout_width="400dp"
-        android:layout_height="400dp"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
         android:id="@+id/imgPhoto"
         android:layout_gravity="center"
         android:scaleType="centerInside"/>
